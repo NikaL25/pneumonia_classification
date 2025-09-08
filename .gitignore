@@ -25,11 +25,8 @@ env/
 *.xlsx
 *.json
 *.parquet
-*.h5
 
 # Model files
-*.joblib
-*.h5
 *.pt
 *.onnx
 
@@ -41,5 +38,3 @@ env/
 Thu
 
 
-# 
-chest_xray/
